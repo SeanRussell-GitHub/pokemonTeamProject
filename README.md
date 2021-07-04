@@ -1,6 +1,6 @@
 # pokemonTeamProject
 The idea started with Kalyn Reid pitching the idea about a pokemon website where a user can type in a pokemon in a searchbar and the relevant information will be displayed to them.
-The first group meeting we developed the MVP for the website as well as some ambitious additions we wanted to do if we had the time and resources to do so.
+The first group meeting Kalyn Reid, Sean Russell, Marcus Reynolds, and Jose Salas Hernandez developed the MVP for the website as well as some ambitious additions we wanted to do if we had the time and resources to do so.
 
 These were our goals we achieved on our first meeting:
   1. MVP (Minimum Viable Product):
