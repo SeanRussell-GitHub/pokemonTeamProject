@@ -1,4 +1,5 @@
 # pokemonTeamProject
+<<<<<<< HEAD
 The idea started with Kalyn Reid pitching the idea about a pokemon website where a user can type in a pokemon in a searchbar and the relevant information will be displayed to them.
 The first group meeting Kalyn Reid, Sean Russell, Marcus Reynolds, and Jose Salas Hernandez developed the MVP for the website as well as some ambitious additions we wanted to do if we had the time and resources to do so.
 
@@ -28,3 +29,6 @@ Second meeting we created a mockup of the website using Figma:
   The Pokémon move page:
     ![the third website](./developmentProcess/movePage.PNG)
     
+=======
+Team project for a Pokémon search site using 2 APIs
+>>>>>>> 8d378b5473b0be77b0e956afb835c9c3a8036e69
