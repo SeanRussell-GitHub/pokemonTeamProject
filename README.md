@@ -1,5 +1,10 @@
 # pokemonTeamProject
-<<<<<<< HEAD
+
+https://seanrussell-github.github.io/pokemonTeamProject/
+
+Using Javascript, Cascading Style Sheet, and HTML create a team project with at least 2 APIs to search for information about a chosen subject.
+
+
 The idea started with Kalyn Reid pitching the idea about a pokemon website where a user can type in a pokemon in a searchbar and the relevant information will be displayed to them.
 The first group meeting Kalyn Reid, Sean Russell, Marcus Reynolds, and Jose Salas Hernandez developed the MVP for the website as well as some ambitious additions we wanted to do if we had the time and resources to do so.
 
@@ -19,15 +24,23 @@ These were our goals we achieved on our first meeting:
     b. Google search API (for website search bar)
     c. Translation API (to translation to different languages)
     
+    
 Second meeting we created a mockup of the website using Figma:
+
   The landing page:
     ![the first website](./developmentProcess/landingPage.PNG)
+  
   
   The Pokémon page:
 ![image](https://user-images.githubusercontent.com/82774738/125010273-10787280-e01b-11eb-9f74-0e6b2ddb4318.png)
 
-  
+<img width="1046" alt="pokemonSnip" src="https://user-images.githubusercontent.com/82774738/125012938-d9f12680-e01f-11eb-95cf-5113f209088a.PNG">
 
-=======
-Team project for a Pokémon search site using 2 APIs
->>>>>>> 8d378b5473b0be77b0e956afb835c9c3a8036e69
+<img width="1220" alt="pokemonProjectWebsiteStart" src="https://user-images.githubusercontent.com/82774738/125013084-0f960f80-e020-11eb-8dc6-e97c4bdf277b.PNG">
+
+
+unknown license
+
+please feel free to contact me at
+emailseanrussell@gmail.com 
+or right here though GitHub
