@@ -24,11 +24,10 @@ Second meeting we created a mockup of the website using Figma:
     ![the first website](./developmentProcess/landingPage.PNG)
   
   The Pokémon page:
-    ![the second website](./developmentProcess/pokemonPage.PNG)
+![image](https://user-images.githubusercontent.com/82774738/125010273-10787280-e01b-11eb-9f74-0e6b2ddb4318.png)
+
   
-  The Pokémon move page:
-    ![the third website](./developmentProcess/movePage.PNG)
-    
+
 =======
 Team project for a Pokémon search site using 2 APIs
 >>>>>>> 8d378b5473b0be77b0e956afb835c9c3a8036e69
