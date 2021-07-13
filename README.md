@@ -1,6 +1,10 @@
 # pokemonTeamProject
 
+deployed url:
 https://seanrussell-github.github.io/pokemonTeamProject/
+
+GitHub url:
+https://github.com/SeanRussell-GitHub/pokemonTeamProject.git
 
 Using Javascript, Cascading Style Sheet, and HTML create a team project with at least 2 APIs to search for information about a chosen subject.
 
